@@ -7,4 +7,8 @@ public class LoginController {
         System.out.println(" xin chào mọi người");
 
     }
+
+    public String Login2(){
+        return "xin chào 2222222 ";
+    }
 }
